@@ -10,4 +10,4 @@ See Issues page for discussion.
 
 ## How to join?
 
-Simply drop a note in the issues or poke me on Telegram @token - we will automate this in the future!
+Simply drop a note in the issues or poke me on Telegram - we will automate this in the future!
